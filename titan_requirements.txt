@@ -7,3 +7,4 @@ pypdf
 PyPDF2
 markdown
 pdfkit
+sklearn
