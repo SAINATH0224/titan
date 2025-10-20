@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+scikit-learn
+requests
+pypdf
+PyPDF2
+markdown
+pdfkit
